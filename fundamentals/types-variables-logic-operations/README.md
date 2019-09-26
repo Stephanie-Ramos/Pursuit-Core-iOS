@@ -384,7 +384,7 @@ The basic type for integers in Swift is `Int`. Before we explore the many relate
 
 ```swift
 let numBonesInHumanBody = 206 // Int by default
-let numLettersInEnglishAlphabet: Int8 = 26  // type annotation lets us control
+let numLettersInEnglishAlphabet: Int = 26  // type annotation lets us control
 ```
 ---
 
