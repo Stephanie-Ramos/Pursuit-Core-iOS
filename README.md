@@ -1,6 +1,6 @@
 # Pursuit Core 6.0: Mobile Development with iOS
 
-## Welcome!
+## Welcome Fellows!
 
 This is where you'll find some common resources as well as full lessons.
 
