@@ -191,7 +191,7 @@ enum TextColor: String {
 <summary>Answer</summary>
 
 ```swift 
-class TextColor: String, FullyNamed {
+enum TextColor: String, FullyNamed {
   case red = "Red"
   case green = "Green"
   case blue = "Blue"
